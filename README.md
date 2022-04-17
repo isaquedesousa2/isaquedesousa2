@@ -2,9 +2,9 @@
 ## Olá eu sou o Isaque
 ###
 
-- 🔭 Estou cursando Análise e Desenvolvimento de Sistemas
+- 🔭 Cursando Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando Django
-- ⚡ Já estudo programação a mais de 2 anos
+- ⚡ Estudo programação a mais de 2 anos
 <br>
 <div align="center">
   <a href="https://github.com/isaquedesousa2">
