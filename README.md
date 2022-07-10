@@ -1,6 +1,5 @@
 👋 Olá, meu nome é Isaque. Sou <strong>Full-Stack developer</strong>.<br>
-☕ Habilidades: <strong>HTML5, CSS3, JavaScript, Python, Django e Flutter</strong>.</br>
-🛠️ Conhecimento sobre alguns bancos de dados: <strong>SQL, MySQL e Firebase</strong>. <br>
+☕ Habilidades: <strong>HTML5, CSS3, JavaScript, Python, Django, React, Tailwind</strong>.</br>
 
 <p align="left">
   <a href="mailto:isaqueleal35@gmail.com" alt="Gmail">
