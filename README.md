@@ -1,5 +1,5 @@
 👋 Olá, meu nome é Isaque. Sou <strong>Full-Stack developer</strong>.<br>
-☕ Habilidades: <strong>HTML5, CSS3, JavaScript, TypeScript, Python, Django, React, Tailwind</strong>.</br>
+☕ Habilidades: <strong>HTML5, CSS3, JavaScript, TypeScript, Python, Django Rest, React, NextJs, NestJs, Tailwind</strong>.</br>
 
 <p align="left">
   <a href="mailto:isaqueleal35@gmail.com" alt="Gmail">
