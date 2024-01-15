@@ -18,4 +18,10 @@ ou conectar-se comigo no LinkedIn:
     <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/isaque-de-sousa-675791216/"/>
   </a>
 </p>
+</br>
+🛠️ Além disso, estou constantemente trabalhando em projetos emocionantes, então não deixe de explorar meus repositórios abaixo para descobrir mais sobre meu trabalho!
+</br>
+
+Estou sempre aberto a novas oportunidades de colaboração e aprendizado, então sinta-se à vontade para entrar em contato.
+
 
