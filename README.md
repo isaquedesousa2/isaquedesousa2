@@ -9,8 +9,10 @@ Minhas principais habilidades incluem o domínio de tecnologias como NestJS, Nex
   <a href="mailto:isaqueleal35@gmail.com" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-6610F2?style=for-the-badge&logo=Gmail&logoColor=FFFFFF&link=mailto:isaqueleal35@gmail.com"/>
   </a>
+</p>
 
 ou conectar-se comigo no LinkedIn: 
+<p align="left">
   <a href="https://www.linkedin.com/in/isaque-de-sousa-675791216/" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/isaque-de-sousa-675791216/"/>
   </a>
