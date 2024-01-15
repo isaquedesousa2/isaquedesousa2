@@ -20,7 +20,6 @@ ou conectar-se comigo no LinkedIn:
   </a>
 </p>
 </br>
-</br>
 🛠️ Além disso, estou constantemente trabalhando em projetos emocionantes, então não deixe de explorar meus repositórios abaixo para descobrir mais sobre meu trabalho!
 </br>
 </br>
