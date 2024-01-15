@@ -4,6 +4,7 @@
 </br>
 Minhas principais habilidades incluem o domínio de tecnologias como NestJS, NextJS, JavaScript, TypeScript, Python, Docker e TailwindCSS.
 </br>
+</br>
 🚀 Durante minha jornada, tive a oportunidade de aprimorar minhas habilidades e conhecimentos, contribuindo para projetos que vão além do esperado. Meu foco está em criar soluções inovadoras que proporcionam uma experiência excepcional aos usuários.
 
 📫 Você pode entrar em contato comigo pelo Gmail: 
