@@ -19,4 +19,3 @@ ou conectar-se comigo no LinkedIn:
   </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaquedesousa2&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
